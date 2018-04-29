@@ -16,9 +16,9 @@ end
 %no of lorentizans
 n = max(size(location));
 l = max(size(X));
-Y = zeros(l,1);
+Y = zeros(size(X,1),size(X,2));
 for i = 1:n
-    Y = Y + ( (1./pi) .* area(i) .* ( ( scale(i) ) ./ ( (X - location(i)).^2 + scale(i).^2 ) ) );
+    Y = Y + ( (1./pi) .* area(i) .* ( ( scale(i) ) ./ ( (X -  location(i)).^2 + scale(i).^2 ) ) );
 end
 
 end

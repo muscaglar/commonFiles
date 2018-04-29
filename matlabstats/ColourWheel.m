@@ -3,7 +3,7 @@ function [ colour ] = ColourWheel(No)
 %   Detailed explanation goes here
 
 C = {'b','r','g','y','k',[.5 .6 .7],[.8 .2 .6]};
-
+C = {'b','r','g','y','k'};
 if No > length(C)
     No = 1;
 end
