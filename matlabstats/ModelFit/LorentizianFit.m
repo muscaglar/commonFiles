@@ -19,15 +19,15 @@ area = ParamFinal(:,3);
 
 Y_fit = Lorentzian(X,location,scale, area);
 
-<<<<<<< mine
+%<<<<<<< mine
 hold on
 plot(X,Y_fit,'b')
 hold off
-=======
+%=======
  %hold on
  %plot(X,Lorentzian(X,location,scale, area),'b')
 % hold off
->>>>>>> theirs
+%>>>>>>> theirs
 
 FinalResids = LorentzianSqaureResids(X,Y,ParamFinal);
 
