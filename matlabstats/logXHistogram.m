@@ -51,7 +51,7 @@ Y = Y(1:end-1);
 
 %Use either hist which centres the bars over the x ticks, or histc which
 %makes them span x ticks.
-h = bar(X,Y,'style','hist');
+h = bar(X,Y,'hist');
 set(h,'FaceColor',colour)
 set(gca,'xscale','log')
 

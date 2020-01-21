@@ -1,25 +1,3 @@
-% ***********************************
-% Matlab2OriginPlot
-%   A librabry to plot from Matlab into Origin.
-%   See OriginPlotExample.
-%   (C) Michael Walker 2015 - All Rights Reserved
-%   Vers: 0.0.3
-%   This code is able to overwrite data in an Origin project and close an
-%   open project without saving. Ensure you have saved all your work before
-%   using this library. The author takes no responsibility for loss of work
-%   due to using this library
-%
-% The above copyright notice and this permission notice shall be included in
-% all copies or substantial portions of the Software.
-%
-% THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-% SOFTWARE.
-%%***********************************
 classdef Matlab2OriginPlot < M2OPlot
     % Matlab2OriginPlot Code to plot in Origin from Matlab
     %

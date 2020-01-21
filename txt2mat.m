@@ -1,4 +1,4 @@
-function [A,ffn,numHeader,repChar,hl,fpos] = coolwater_txt2mat(varargin)
+function [A,ffn,numHeader,repChar,hl,fpos] = txt2mat(varargin)
 
 % TXT2MAT read an ascii file and convert a data table to a matrix
 %
