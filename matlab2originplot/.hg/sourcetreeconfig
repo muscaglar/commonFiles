@@ -16,10 +16,10 @@
   <SubtreeLinks />
 </RepositoryCustomSettings>
 autorefresh=1
-savedIncoming=7
+savedIncoming=0
 lastUsedView=0
-savedOutgoing=0
+savedOutgoing=1
 showBuildStatus=1
 disablerecursiveoperations=0
-lastCheckedRemotes=2019-02-24 15:28:38 +0000
+lastCheckedRemotes=2020-01-21 13:04:28 +0000
 autorefreshremotes=1

@@ -1,10 +1,12 @@
 data/M2OPlot/M2OPlot_YOURFORMAT.m.i
+data/M2OPlot/@M2OPlot/M2OPlot.m.orig.i
 data/OriginPlotExample.m.i
 data/M2OPlot/Examples/M2O_ColourExample.m.i
 data/Matlab2SVGPlot.m.i
 data/M2OPlot/@M2OPlot/M2OPlot.m.i
 data/M2OPlot/Examples/M2O_DataTransferExample.m.i
 data/M2OPlot/Examples/M2O_LineExample.m.i
+data/M2OPlot/Examples/M2O_AnnotationExample.m.i
 data/Matlab2OriginPlot.m.i
 data/M2OPlot/README.md.i
 data/M2OPlot/Examples/M2O_AxisExample.m.i

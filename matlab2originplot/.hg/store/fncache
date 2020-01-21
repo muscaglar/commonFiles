@@ -1,4 +1,5 @@
 data/M2OPlot/M2OPlot_YOURFORMAT.m.i
+data/M2OPlot/@M2OPlot/M2OPlot.m.orig.i
 data/OriginPlotExample.m.i
 data/Matlab2SVGPlot.m.i
 data/M2OPlot/@M2OPlot/M2OPlot.m.i
@@ -22,3 +23,4 @@ data/M2OPlot/Examples/M2O_ColumnHistorgramExample.m.i
 data/M2OPlot/@M2OPlot/CheckVectors.m.i
 data/Matlab2OriginPlotTest.m.i
 data/M2OPlot/Examples/M2O_ColourExample.m.i
+data/README.md.i
